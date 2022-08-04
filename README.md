@@ -18,3 +18,6 @@ The fetched data are :
   - Wind speed
   - visibility
   - Sunrise and sunset time (Formating with moment.js)
+  
+  
+  Live Demo :<a href="https://m3d4li.github.io/Simple-weather-app-using-vanilla-JavaScript-and-openweather-api/">click here</a>
